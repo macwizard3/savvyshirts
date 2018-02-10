@@ -26,7 +26,7 @@ Joseph Dockery
 + XL
 
 Caleb Lowe
-+
++ L
 
 Rakesha McIntryre
 +
