@@ -46,11 +46,11 @@ T'nea Mayweather
 Alexandria Strider
 + M
 
+Alex French
++ S
+
 Carisa Brown
 + XXL
-
-Alex French
-+
 
 Cheryl Zuckerman
 +
