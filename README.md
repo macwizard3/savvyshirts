@@ -23,7 +23,7 @@ Christopher Chaney
 + M
 
 Joseph Dockery
-+
++ XL
 
 Caleb Lowe
 +
