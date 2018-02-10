@@ -17,7 +17,7 @@ Dante Cruz
 + 
 
 Nick Guertin
-+ 
++ Medium
 
 Christopher Chaney
 + 
