@@ -25,7 +25,7 @@ Christopher Chaney
 Joseph Dockery
 + 
 
-Caleb Lowe
+Caleb Lowe - Large
 + 
 
 Rakesha McIntryre
