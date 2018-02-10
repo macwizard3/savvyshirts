@@ -5,7 +5,7 @@ Example - John Cotton
 + L
 
 Keri Hedman
-+ 
++ XXXL
 
 Chris Williams
 + 
