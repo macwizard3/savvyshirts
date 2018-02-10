@@ -35,13 +35,13 @@ Luz Cortes
 +
 
 Jamiecia Love
-+
++ S 
 
 Jasmine Thomas
 + XL
 
 T'nea Mayweather
-+
++ L
 
 Alexandria Strider
 + M
@@ -51,6 +51,7 @@ Alex French
 
 Carisa Brown
 + XXL
+
 
 Cheryl Zuckerman
 +
