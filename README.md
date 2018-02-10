@@ -5,22 +5,22 @@ Example - John Cotton
 + L
 
 Keri Hedman
-+
++ XXXL
 
 Chris Williams
-+
++ L 
 
 Larry Hudson
 +
 
 Dante Cruz
-+
++ XXL
 
 Nick Guertin
-+
++ M
 
 Christopher Chaney
-+
++ M
 
 Joseph Dockery
 +
@@ -44,7 +44,7 @@ T'nea Mayweather
 +
 
 Alexandria Strider
-+ medium shirt please 
++ M
 
 Carisa Brown
 +
