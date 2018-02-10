@@ -5,7 +5,6 @@ Example - John Cotton
 + L
 
 Keri Hedman
-
 + XXXL
 
 Chris Williams
@@ -21,7 +20,6 @@ Nick Guertin
 + M
 
 Christopher Chaney
-
 + M
 
 Joseph Dockery
@@ -46,7 +44,7 @@ T'nea Mayweather
 +
 
 Alexandria Strider
-+
++ M
 
 Carisa Brown
 +
