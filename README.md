@@ -11,7 +11,7 @@ Chris Williams
 + L 
 
 Larry Hudson
-+
++ XL
 
 Dante Cruz
 + XXL
