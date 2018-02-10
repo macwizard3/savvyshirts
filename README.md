@@ -38,7 +38,7 @@ Jamiecia Love
 +
 
 Jasmine Thomas
-+
++ XL
 
 T'nea Mayweather
 +
