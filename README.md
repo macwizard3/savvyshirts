@@ -5,6 +5,7 @@ Example - John Cotton
 + L
 
 Keri Hedman
+
 + XXXL
 
 Chris Williams
@@ -17,7 +18,7 @@ Dante Cruz
 + XXL
 
 Nick Guertin
-+
++ M
 
 Christopher Chaney
 +
