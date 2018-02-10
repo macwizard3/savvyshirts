@@ -5,58 +5,60 @@ Example - John Cotton
 + L
 
 Keri Hedman
-+ 
+
++ XXXL
 
 Chris Williams
-+ 
++ L 
 
 Larry Hudson
-+ 
++
 
 Dante Cruz
-+ 
++ XXL
 
 Nick Guertin
-+ 
++ M
 
 Christopher Chaney
-M
+
++ M
 
 Joseph Dockery
-+ 
++
 
 Caleb Lowe
-+ 
++
 
 Rakesha McIntryre
-+ 
++
 
 Luz Cortes
-+ 
++
 
 Jamiecia Love
-+ 
++
 
 Jasmine Thomas
-+ 
++
 
 T'nea Mayweather
-+ 
++
 
 Alexandria Strider
-+ 
++
 
 Carisa Brown
-+ 
++
 
 Alex French
-+ 
++
 
 Cheryl Zuckerman
-+ 
++
 
 Quintez Martin
-+ 
++
 
 Darrell Haire
-+ 
++
