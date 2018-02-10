@@ -47,7 +47,7 @@ Alexandria Strider
 + M
 
 Carisa Brown
-+
++ XXL
 
 Alex French
 +
